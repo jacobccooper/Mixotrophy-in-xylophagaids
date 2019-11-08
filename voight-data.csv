@@ -1,0 +1,73 @@
+ID_Number,ID_Name,Sample,C13,N15,Taxon,Clade,Wood_type,Depth,Preservation,Year
+1,oregana_siphon,oregona siphon 1.raw,-22.4133871014438,1.96284330355539,oregona,dors,fir,2211,f_to_e,2004
+2,oregana_siphon,oregona siphon 2.raw,-22.6580405347863,-0.374065098350833,oregona,dors,fir,2211,f_to_e,2004
+3,oregana_siphon,oregona siphon 3.raw,-22.1754181357821,2.76641090369323,oregona,dors,fir,2211,f_to_e,2004
+4,dorsalis-lg_siphon,dorsalis lg indiv siphon 1 1.raw,-21.8051541092358,6.14046253727289,dorsalis,dors,wild,210,ethanol,2017
+5,dorsalis-lg_siphon,dorsalis lg indiv siphon 1 2.raw,-21.8427738897048,6.35727851227553,dorsalis,dors,wild,210,ethanol,2017
+6,X-wash-june,X wash 1.raw,-22.13869035,6.868903946,washingtona,dors,wild,18,ethanol,2014
+7,X-wash-june,X wash 1 2.raw,-22.60350513,7.172398387,washingtona,dors,wild,18,ethanol,2014
+8,X-wash-june,X wash 2.raw,-24.23026188,7.647304518,washingtona,dors,wild,18,ethanol,2014
+9,X-wash-june,X wash 3.raw,-23.93283083,6.92761907,washingtona,dors,wild,18,ethanol,2014
+10,Xylopholas-crooki_siphon,x11.raw,-26.0822529910787,6.13275629418844,crooki,pholas,wild,3075,f_to_e,2010
+11,Xylopholas-crooki_siphon,11 1.raw,-26.6111871880182,1.49920358915831,crooki,pholas,wild,3075,f_to_e,2010
+12,Xylopholas-crooki_siphon,11 2.raw,-25.0492499405274,1.39348552981772,crooki,pholas,wild,3075,f_to_e,2010
+13,Xyloredo-nooi_siphon,x1.raw,-22.4021005642407,0.775860065285514,nooi,redo,wild,517,f_to_e,2010
+14,Xylophaga-alexisi,3 acidified.raw,-25.2504235280688,3.22083392047878,alexisi,dors,deployed,4626,f_to_e,1991
+15,Xylophaga-alexisi,3 1.raw,-24.4306919719547,4.67607242340726,alexisi,dors,deployed,4626,f_to_e,1991
+16,Xylophaga-alexisi,3 2.raw,-23.8393751786487,5.03659026569691,alexisi,dors,deployed,4626,f_to_e,1991
+17,Xylophaga-alexisi,3 3.raw,-24.4382913946166,4.66153028468647,alexisi,dors,deployed,4626,f_to_e,1991
+18,Xylophaga-microchira_baby-bare,x7.raw,-22.6578359437974,0.858443563961545,microchira,xylo,fir,2639,f_to_e,2003
+19,Xylophaga-microchira_baby-bare,x7 2.raw,-23.0591878459505,0.888690700893064,microchira,xylo,fir,2639,f_to_e,2003
+20,Xylophaga-microchira_unknown,microchira siphon 1.raw,-23.3691470827108,-1.4530609551238,microchira,xylo,fir,2639,f_to_e,2003
+21,Xylophaga-microchira_unknown,microchira siphon 2.raw,-22.8134754069244,-0.581970456313496,microchira,xylo,fir,2639,f_to_e,2003
+22,Xylophaga-heterosiphon_ODP,12 acidified.raw,-25.4719113687448,3.52502098873734,heterosiph,abdito,fir,2658,f_to_e,2003
+23,Xylophaga-heterosiphon_ODP,12 1.raw,-25.2156217145156,3.46549127106791,heterosiph,abdito,fir,2658,f_to_e,2003
+24,Xylophaga-heterosiphon_ODP,12 2.raw,-25.2503250912286,4.05168018785127,heterosiph,abdito,fir,2658,f_to_e,2003
+25,Xylophaga-heterosiphon_ODP,12 3.raw,-25.1205430872335,3.8502896792648,heterosiph,abdito,fir,2658,f_to_e,2003
+26,Xylophaga-muraokai_wb26-not-acidified-siphon,X wb26 1 siphon.raw,-24.2865004718334,2.02613715707587,muraokai,xylo,ginkgo,3100,ethanol,2013
+27,Xylophaga-muraokai_wb26-not-acidified-siphon,X wb26 2 siphon.raw,-23.835274678548,2.08301963111222,muraokai,xylo,ginkgo,3100,ethanol,2013
+28,Xylophaga-muraokai_wb26-not-acidified-siphon,X wb26 3 siphon.raw,-24.2404747403218,0.869867177222351,muraokai,xylo,ginkgo,3100,ethanol,2013
+29,Xylophaga-muraokai_Endeavour,x13.raw,-23.0944873632052,1.06413680397672,muraokai,xylo,fir,2211,f_to_e,2004
+30,Xylophaga-muraokai_Endeavour,x13 2.raw,-23.1560069068745,1.4616070592425,muraokai,xylo,fir,2211,f_to_e,2004
+31,Xylophaga-zierenbergi_Endeavour,x15.raw,-22.8416031349975,0.235771936247828,zierenber,xylo,fir,2211,f_to_e,2004
+32,Xylophaga-zierenbergi_Endeavour,x15 2.raw,-23.0891394300271,0.364576445827993,zierenber,xylo,fir,2211,f_to_e,2004
+33,Xylophaga-zierenbergi_26-siphon,voight a01.raw,-22.4654848794246,-0.331651621630201,zierenber,xylo,ginkgo,3100,ethanol,2013
+34,Xylophaga-zierenbergi_26-siphon,voight a02.raw,-25.2985472915213,-0.271940604198572,zierenber,xylo,ginkgo,3100,ethanol,2013
+35,Xylophaga-zierenbergi_26-siphon,voight a03.raw,-25.7328967409564,-1.16156374972411,zierenber,xylo,ginkgo,3100,ethanol,2013
+36,Xylophaga-zierenbergi_26-siphon,voight a04.raw,-23.2058317905389,-1.56040567946072,zierenber,xylo,ginkgo,3100,ethanol,2013
+37,Xylophaga-zierenbergi_26-siphon,voight a05.raw,-21.7922159171816,-0.912896317877408,zierenber,xylo,ginkgo,3100,ethanol,2013
+38,Xylophaga-zierenbergi_26-siphon,voight a06.raw,-23.0957789968637,0.472097945516926,zierenber,xylo,ginkgo,3100,ethanol,2013
+39,Xylophaga-zierenbergi_26-siphon-not-acidified,Xzier wb26 1 siphon.raw,-25.1832773682546,-0.320700617878166,zierenber,xylo,ginkgo,3100,ethanol,2013
+40,Xylophaga-zierenbergi_26-siphon-not-acidified,Xzier wb26 2 siphon.raw,-21.5446953994701,-1.24187070275219,zierenber,xylo,ginkgo,3100,ethanol,2013
+41,Xylophaga-zierenbergi_26-siphon-not-acidified,Xzier wb26 3 siphon.raw,-25.6778021308168,-1.18608595167138,zierenber,xylo,ginkgo,3100,ethanol,2013
+42,Xylophaga-zierenbergi_26-siphon-not-acidified,Xzier wb32 1 siphon.raw,-22.3989771280775,0.343307980804931,zierenber,xylo,ironwood,3100,ethanol,2013
+43,Xylophaga-zierenbergi_26-siphon-not-acidified,Xzier wb32 2 siphon.raw,-21.5871398497949,-0.348147131174724,zierenber,xylo,ironwood,3100,ethanol,2013
+44,Xylophaga-zierenbergi_26-siphon-not-acidified,Xzier wb32 3 siphon.raw,-23.7796377666965,-0.11373904305647,zierenber,xylo,ironwood,3100,ethanol,2013
+45,Xylophaga-zierenbergi_17-siphon,voight b03.raw,-26.1151064961251,1.90612625015194,zierenber,xylo,pine,3100,ethanol,2013
+46,Xylophaga-zierenbergi_17-siphon,voight b05.raw,-26.2124067941082,2.1333086916334,zierenber,xylo,pine,3100,ethanol,2013
+47,Xylophaga-zierenbergi_17-siphon,voight b06.raw,-25.3130427862598,0.656977094990997,zierenber,xylo,pine,3100,ethanol,2013
+48,Xylophaga-zierenbergi_17-siphon,voight b07.raw,-25.7034584110628,1.75807884256982,zierenber,xylo,pine,3100,ethanol,2013
+49,Xylophaga-zierenbergi_19-siphon,Xzier wb17 1 siphon.raw,-25.0555329174093,2.30781469701156,zierenber,xylo,pine,3100,ethanol,2013
+50,Xylophaga-zierenbergi_19-siphon,Xzier wb17 2 siphon.raw,-26.3776741096707,1.41032818796836,zierenber,xylo,pine,3100,ethanol,2013
+51,Xylophaga-zierenbergi_19-siphon,Xzier wb17 3 siphon.raw,-25.7350962965038,0.847565650412864,zierenber,xylo,pine,3100,ethanol,2013
+52,Xylophaga-zierenbergi_19-siphon,voight a07.raw,-24.9296292290212,-0.50768494930744,zierenber,xylo,spicebuch,3100,ethanol,2013
+53,Xylophaga-zierenbergi_19-siphon,voight a08.raw,-22.8526150910116,0.925890272341113,zierenber,xylo,spicebuch,3100,ethanol,2013
+54,Xylophaga-zierenbergi_19-siphon,voight a09.raw,-22.5461431329358,-2.25033413900357,zierenber,xylo,spicebuch,3100,ethanol,2013
+55,Xylophaga-zierenbergi_19-siphon,voight a10.raw,-23.4502322990113,-0.871078344294362,zierenber,xylo,spicebuch,3100,ethanol,2013
+56,Xylophaga-zierenbergi_19-siphon,voight a11.raw,-24.5880647274221,0.324918649832285,zierenber,xylo,spicebuch,3100,ethanol,2013
+57,Xylophaga-zierenbergi_19-siphon,voight a12.raw,-24.9183598876441,-0.194237571386501,zierenber,xylo,spicebuch,3100,ethanol,2013
+58,Xylophaga-zierenbergi_19-siphon,voight b01.raw,-23.7600493052427,0.450660982775332,zierenber,xylo,spicebuch,3100,ethanol,2013
+59,Xylophaga-zierenbergi_19-siphon,voight b02.raw,-23.874434892723,-1.22653853602563,zierenber,xylo,spicebuch,3100,ethanol,2013
+60,Xylophaga-zierenbergi_19-siphon-not-acidified,Xzier wb19 1 siphon.raw,-24.9428688038435,-0.237876290843396,zierenber,xylo,spicebuch,3100,ethanol,2013
+61,Xylophaga-zierenbergi_19-siphon-not-acidified,Xzier wb19 2 siphon.raw,-23.345349296773,-0.686648828683322,zierenber,xylo,spicebuch,3100,ethanol,2013
+62,Xylophaga-zierenbergi_19-siphon-not-acidified,Xzier wb19 3 siphon.raw,-22.4714312232223,0.994983584941301,zierenber,xylo,spicebuch,3100,ethanol,2013
+63,Xylophaga-zierenbergi_23-siphon,voight b09.raw,-26.1610221986958,-0.150442737007283,zierenber,xylo,oak,3100,ethanol,2013
+64,Xylophaga-zierenbergi_23-siphon,voight b10.raw,-25.0108739441455,-1.41830735020523,zierenber,xylo,oak,3100,ethanol,2013
+65,Xylophaga-zierenbergi_23-siphon,voight b11.raw,-26.2542600514578,-0.41154807540713,zierenber,xylo,oak,3100,ethanol,2013
+66,Xylophaga-zierenbergi_23-siphon,voight b12.raw,-24.4816831345581,-0.060148631173672,zierenber,xylo,oak,3100,ethanol,2013
+67,Xylophaga-zierenbergi_23-siphon,voight c01.raw,-25.3057828391808,0.748450272869273,zierenber,xylo,oak,3100,ethanol,2013
+68,Xylophaga-zierenbergi_23-siphon,voight c02.raw,-26.3243886833183,-1.05856843957954,zierenber,xylo,oak,3100,ethanol,2013
+69,Xylophaga-zierenbergi_23-siphon,voight c03.raw,-26.1483508175749,-0.428741582776303,zierenber,xylo,oak,3100,ethanol,2013
+70,Xylophaga-zierenbergi_23-siphon-not-acidified,Xzier wb23 1 siphon.raw,-25.4714234712657,0.860461889032083,zierenber,xylo,oak,3100,ethanol,2013
+71,Xylophaga-zierenbergi_23-siphon-not-acidified,Xzier wb23 2 siphon.raw,-25.8689992000598,-0.849923380370842,zierenber,xylo,oak,3100,ethanol,2013
+72,Xylophaga-zierenbergi_23-siphon-not-acidified,Xzier wb23 3 siphon.raw,-25.6452715916247,-0.425629818497163,zierenber,xylo,oak,3100,ethanol,2013
